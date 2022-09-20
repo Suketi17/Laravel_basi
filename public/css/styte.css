@@ -1,0 +1,26 @@
+#content{
+	width: 600;
+	height: 400;
+	background-color: violet;
+	border: 1 solid black;
+	text-align: center;
+	margin: auto;
+}
+
+#header{
+	width: 600;
+	height: 200;
+	background-color: red;
+	border: 1 solid black;
+	text-align: center;
+	/*margin: auto;*/
+}
+
+#footer{
+	width: 600;
+	height: 40;
+	background-color: green;
+	border: 1 solid black;
+	text-align: center;
+	/*margin: auto;*/
+}
